@@ -1,1 +1,20 @@
 hello world , world hello.
+
+
+
+
+
+echo "# Sample_Repo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/diveshkswn/Sample_Repo.git
+git push -u origin main
+
+
+
+
+git remote add origin https://github.com/diveshkswn/Sample_Repo.git
+git branch -M main
+git push -u origin main
